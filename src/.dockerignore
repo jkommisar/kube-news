@@ -1,0 +1,2 @@
+# duvida se por nao ter node instalado no meu pc precido desse dockerignore.
+node_modules/
